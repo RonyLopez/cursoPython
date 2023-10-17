@@ -1,0 +1,40 @@
+/*p{
+    color: red;
+}
+h1{
+    color: blue;
+}
+main{
+    background-color: green;
+}
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h1{
+    color: violet;
+}
+
+p{
+    background-color: yellow;
+    color: white;
+}
+a{
+    color: inherit;
+}*/
+
+.clase{
+    color: lawngreen;
+}
+#identificador{
+    color: lawngreen;
+}
+
+p{
+    color: lightcoral;
+}
+p{
+    color: lightcoral !important;
+}
